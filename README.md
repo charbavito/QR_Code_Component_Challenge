@@ -28,8 +28,9 @@ The challenge consists of creating a simple static page using the jpg design fil
 
 ### Links
 
-- [Solution on Frontend Mentor](#)
-- [Live at Versel](#)
+- [Live Solution at Versel](https://qr-code-component-challenge-psi.vercel.app/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/html5-css3-flexbox-vscode-git-and-github-UZcwEgGJ1E)
+
 
 ## My process
 
@@ -51,7 +52,7 @@ These two games below helped me a lot to understand how simple commands in Flexb
 
 - Linkedin - [Charles Barros](https://www.linkedin.com/in/charles-barros/)
 - Frontend Mentor - [@charbavito](https://www.frontendmentor.io/profile/charbavito)
-- Github - [Charles (charbavito) Barros](hhttps://github.com/charbavito)
+- Github - [Charles (charbavito) Barros](https://github.com/charbavito)
 
 ## Acknowledgments
 
