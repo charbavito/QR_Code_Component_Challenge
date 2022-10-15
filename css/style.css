@@ -31,14 +31,14 @@ body{
     left: 0;
     margin: 13px auto 10px auto;
 }
-.mainP{
+.mainH1{
   color: #1f3251;
   font-weight: 700;
   margin: 310px 20px 10px 20px;
   text-align: center;
   font-size: 20px;
 } 
-.secondP{
+p{
     color: #7b879d;
     font-weight: 400;
     margin: 15px 20px 0 20px;
